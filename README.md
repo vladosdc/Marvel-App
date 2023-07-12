@@ -1,6 +1,6 @@
 #  Marvel SPA
 
-### Stack: React, React Router Dom, React Helmet, React Transition Group, Formik, Yup, SASS
+### Stack: React, React Router Dom, React Helmet, React Transition Group, Formik, Yup, SCSS
 
 ### Demo - https://marvel-app-vladosdc.vercel.app/
 
