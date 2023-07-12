@@ -2,7 +2,7 @@
 
 ### Stack: React, React Router Dom, React Helmet, React Transition Group, Formik, Yup, SASS
 
-### Demo - https://marvel-app-orcin.vercel.app/
+### Demo - https://marvel-app-vladosdc.vercel.app/
 
 Marvel App, SPA app where the heroes/comics of the Marvel Universe are displayed, your random character for today, when you click on a hero from the list you see a comic strip with him, there is also a search for the hero.
 
